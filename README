@@ -1,6 +1,8 @@
 This is my hacky setup to add math characters to my keyboard layout, accesible via an AltGr key. The fifth layer for script characters isn't working for me right now. I'm not sure it was a good idea to begin with.
 
-Install with install.sh. This overwrites system files, which is bad.
+The part that I hacked in is the "English (US, math symbols)" part.
+
+Install with install.sh. This overwrites system xkb files, which is bad. Don't use this is you are not me.
 
 My recollection is that per user configuration (i.e. .Xmodmap) does not play well with multiple layouts.
 
